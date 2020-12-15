@@ -8,8 +8,8 @@ Most of the time I am on my laptop coding, developing, and building things but w
 </br>
 </br>
 
-# Languages & Tools:
-<div align="center">
+## Languages & Tools:
+<div align="left">
 
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" height="40" />
