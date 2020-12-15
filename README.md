@@ -10,5 +10,6 @@ Most of the time I am on my laptop coding, developing, and building things but w
 </br>
 
 ## Languages & Tools:
-![logo](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png  =100x20)
-
+<div align="left">
+  <img width="600" height="200" src="https://www.python.org/python-.png">
+</div>  
