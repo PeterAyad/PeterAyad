@@ -1,4 +1,6 @@
-<img height="500" src="https://raw.githubusercontent.com/PeterAyad/PeterAyad/main/programming.gif">
+<div align="center">
+  <img height="500" src="https://raw.githubusercontent.com/PeterAyad/PeterAyad/main/programming.gif">
+  </div>
 
 </br>
 
