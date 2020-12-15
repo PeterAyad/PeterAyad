@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/PeterAyad/PeterAyad/programming.gif)]
+![Header](https://raw.githubusercontent.com/PeterAyad/PeterAyad/programming.gif)
 ### Hi there 👋
 
 <!--
