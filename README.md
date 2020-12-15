@@ -15,4 +15,7 @@ Most of the time I am on my laptop coding, developing, and building things but w
 <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">   &nbsp; &nbsp;
 <img height="50" src="https://img.icons8.com/color/48/000000/python.png"> &nbsp; &nbsp;
 <img height="50" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"> &nbsp; &nbsp;
+<img height="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"> &nbsp; &nbsp;
+<img height="50" src="https://img.icons8.com/ios-filled/50/000000/jquery.png"> &nbsp; &nbsp;
+<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"> &nbsp; &nbsp;
 </div>  
