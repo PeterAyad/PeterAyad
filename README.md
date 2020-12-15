@@ -11,5 +11,6 @@ Most of the time I am on my laptop coding, developing, and building things but w
 
 <h2 align="center">Languages & Tools</h2>
 <pre align="left">
+<img height="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png">
 <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 </pre>  
