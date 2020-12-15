@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/PeterAyad/PeterAyad/main/programming.gif)
+<img height="500" src="https://raw.githubusercontent.com/PeterAyad/PeterAyad/main/programming.gif">
 
 </br>
 
