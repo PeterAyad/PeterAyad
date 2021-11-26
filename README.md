@@ -22,8 +22,8 @@ Most of the time I am on my laptop coding, developing, and building things but w
 <img alt="Flask"  height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"> &nbsp; &nbsp;
 </div>   -->
 
-<div align="center">
+<div  align="center">
 <!--   <img align=right src="https://github-readme-stats.vercel.app/api?show_icons=true&count_private=true&theme=midnight-purple&username=peterayad" /> -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=midnight-purple&username=peterayad&langs_count=14&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?theme=midnight-purple&username=peterayad&langs_count=14&layout=compact" />
 </div>
 
