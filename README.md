@@ -24,11 +24,9 @@ Most of the time I am on my laptop coding, developing, and building things but w
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?show_icons=true&count_private=true&theme=midnight-purple&username=peterayad)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=midnight-purple&username=peterayad&langs_count=10&layout=compact)
-
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?show_icons=true&count_private=true&theme=midnight-purple&username=peterayad" />
-</a>
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=midnight-purple&username=peterayad&langs_count=10&layout=compact" />
-</a>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?show_icons=true&count_private=true&theme=midnight-purple&username=peterayad" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?theme=midnight-purple&username=peterayad&langs_count=10&layout=compact" />
+</div>
 
