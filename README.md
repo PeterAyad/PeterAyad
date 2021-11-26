@@ -24,6 +24,6 @@ Most of the time I am on my laptop coding, developing, and building things but w
 
 <div>
 <!--   <img align=right src="https://github-readme-stats.vercel.app/api?show_icons=true&count_private=true&theme=midnight-purple&username=peterayad" /> -->
-  <img align=left src="https://github-readme-stats.vercel.app/api/top-langs/?theme=midnight-purple&username=peterayad&langs_count=14&layout=compact" />
+  <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?theme=midnight-purple&username=peterayad&langs_count=14&layout=compact" />
 </div>
 
