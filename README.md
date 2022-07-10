@@ -22,6 +22,6 @@
 
 <div  align="center">
 <!--   <img align=right src="https://github-readme-stats.vercel.app/api?show_icons=true&count_private=true&theme=midnight-purple&username=peterayad" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?theme=midnight-purple&username=peterayad&langs_count=14&layout=compact&hide=css,html,typescript,scss,c,objective-c,jupyter%20notebook&exclude_repo=" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?theme=midnight-purple&username=peterayad&langs_count=14&layout=compact&hide=css,html,typescript,scss,c,objective-c&exclude_repo=" />
 </div>
 
