@@ -27,9 +27,9 @@
 <img align=left src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=peterayad&theme=github_dark" />
 </div> -->
 
-<div id="image-table">
+<div>
     <table>
-	    <tr style="border: none;">
+	    <tr>
     	    <td>
 		    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=peterayad&theme=github_dark" />
       	    </td>
