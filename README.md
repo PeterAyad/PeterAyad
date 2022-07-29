@@ -28,12 +28,12 @@
 </div> -->
 
 <div>
-    <table>
-	    <tr>
-    	    <td>
+    <table style="border: 0;">
+	    <tr style="border: 0;">
+    	    <td style="border: 0;">
 		    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=peterayad&theme=github_dark" />
       	    </td>
-            <td>
+            <td style="border: 0;">
               <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=peterayad&theme=github_dark" />
             </td>
         </tr>
