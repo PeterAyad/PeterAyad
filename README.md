@@ -28,8 +28,8 @@
 </div> -->
 
 <div id="image-table">
-    <table rules=none>
-	    <tr>
+    <table>
+	    <tr style="border: none;">
     	    <td>
 		    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=peterayad&theme=github_dark" />
       	    </td>
