@@ -20,7 +20,7 @@
 <img alt="Flask"  height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"> &nbsp; &nbsp;
 </div>   -->
 
-<div  align="center">
+<div  align="center" style="display:flex">
 <!--   <img align=right src="https://github-readme-stats.vercel.app/api?show_icons=true&count_private=true&theme=midnight-purple&username=peterayad" /> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?theme=midnight-purple&username=peterayad&langs_count=14&layout=compact&hide=css,html,typescript,scss,c,objective-c,jupyter%20notebook&exclude_repo=" /> -->
 <img align=right src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=peterayad&theme=github_dark" />
